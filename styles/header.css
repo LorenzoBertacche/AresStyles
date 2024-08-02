@@ -32,4 +32,9 @@
     display: block;
 }
 
+.lista-menu__titulo, 
+.lista-menu__titulo {
+    padding: 1em;
+    background-color: var(--branco);
+}
     
