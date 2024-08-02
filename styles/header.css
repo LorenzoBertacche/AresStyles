@@ -41,3 +41,10 @@
 .lista-menu__titulo {
     color: var(--laranja);
 }
+
+.lista-menu__link {
+    background: (97.54deg, #002F52 30.49%, #326589 170.37%); 
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+}
