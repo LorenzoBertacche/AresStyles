@@ -25,3 +25,8 @@
     display: flex;
     justify-content: space-between;
 }
+
+.card__botões {
+    display: flex;
+    justify-content: space-between;
+}
