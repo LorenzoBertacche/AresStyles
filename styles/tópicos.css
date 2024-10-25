@@ -7,3 +7,8 @@
     color: var(--branco);
     font-weight: 300;
 }
+
+.tópicos__lista {
+    display: flex;
+    flex-wrap: wrap;
+}
