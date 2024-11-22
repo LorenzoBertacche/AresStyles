@@ -100,5 +100,8 @@
         display: none;
     }
     
+    .cabeçalho__menu-hamburguer {
+        display: none;
+    }
   }
 
